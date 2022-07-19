@@ -1,0 +1,10 @@
+NP01, Harry Potter, Jk Rowling,19,$ 2
+NP02, Start With Why, Simon Sinek,7,$ 1.5
+NP03, Programming With Python, John Smith,19,$ 1.5
+NP04, The Diary of a Young Girl, Anne Frank,5,$ 1.2
+NP05, Think Like a Monk, Jay Shetty,30,$ 2.2
+NP06, Lord of The Flies, William Golding, 40,$ 2.5
+NP07, How to Win Friends and Influence People, Dale Carnegie, 44,$ 3.0
+NP08, Romeo and Juliet, William Shakespeare, 10,$ 1.6
+NP09, Catch-22, Joseph Heller,33,$ 2.3 
+NP10,In Search of Lost Time, Marcel Proust, 27,$ 1.3
